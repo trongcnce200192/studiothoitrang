@@ -1,0 +1,5 @@
+{
+  "name": "Fashion AI Mini",
+  "description": "A React-based AI fashion assistant simulating virtual try-on, texture changing, and accessory addition using Gemini Multimodal capabilities.",
+  "requestFramePermissions": []
+}
